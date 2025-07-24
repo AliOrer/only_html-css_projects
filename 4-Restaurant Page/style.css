@@ -223,3 +223,95 @@ ul li a:hover{
 footer{
     text-align: center;
 }
+
+/* styling contact */
+#ContactUs{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: grey;
+}
+
+.form-shape input,
+.form-shape select,
+.form-shape textarea{
+    width: 92%;
+    padding: 0.5rem;
+}
+
+
+/* color of placeholder */
+::placeholder{
+    color: gray;
+}
+
+
+/* responsive media queries */
+@media only screen and(max-width: 1131px){
+    #row4{
+        width: 42vw;
+    }
+
+    #row5{
+        width: 45vw;
+    }
+
+    #row6{
+        margin-top: 20px;
+        width: 90vw;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width : 781px){
+    #row4{
+        width: 84vw;
+        margin: auto;
+        margin-left: 22px;
+    }
+
+    #row5{
+        width: 84vw;
+        margin: auto;
+        margin-top: 20px;
+        margin-left: 22px;
+    }
+
+    #row6{
+        width: 84vw;
+        margin: auto;
+        margin-top: 20px;
+        margin-left: 22px;
+    }
+}
+
+@media only screen and(max-width: 600px){
+    #row4{
+        width: 78vw;
+        margin: auto;
+        margin-left: 3px;
+    }
+
+    #row5{
+        width: 78vw;
+        margin: auto;
+        margin-top: 20px;
+        margin-left: 3px;
+    }
+}
+
+
+@media only screen and(min-height: 1000px){
+    #navbar{
+        height: 10vh;
+    }
+
+    #container::before{
+        height: 39vh;
+    }
+
+    #container1{
+        height: 44vh;
+    }
+}
