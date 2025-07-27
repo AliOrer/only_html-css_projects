@@ -9,10 +9,15 @@
 <body>
 
     <div class="container">
+
+        <!-- dark mode button -->
+ <button id="toggle-dark">🌙 Toggle Dark Mode</button>
+
+
         <h1>🎵 My Playlist</h1>
 
         <div class="player">
-            <img src="" alt="Album Cover">
+            <img src="imagine.jpg" alt="Album Cover">
 
             <h2 class="song-title">Imagine</h2>
             <p class="artist">John Lennon</p>
@@ -35,6 +40,17 @@
         </div>
     </div>
 
+
+
+    <!-- javascript button -->
     
+    <script>
+        const btn = document.getElementById('toggle-dark');
+        btn.addEventListener('click', () => {
+            document.body.classList.toggle('dark');
+        });
+    </script> 
+
+
 </body>
 </html>

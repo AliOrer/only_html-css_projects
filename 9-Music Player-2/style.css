@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Segoe UI', sans-serif;
+    background-color:  #f4f4f4;
+    color: #222;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.container{
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+}
+
+h1{
+    margin-bottom: 20px;
+    color: #1e90ff;
+}
+
+.player{
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+}
+
+.cover{
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.song-title{
+    font-size: 1.4rem;
+    color: #1e90ff;
+}
+
+.artist{
+    color: #777;
+    margin-bottom: 15px;
+}
+
+.controls{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.controls button{
+    background: #1e90ff;
+    color: white;
+    border: none;
+    padding: 10px 14px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background 0.3s;
+}
+
+.controls button:hover{
+    background: #0f6dbf;
+}
+
+.playlist ul{
+    text-align: left;
+    margin-top: 10px;
+    list-style: none;
+}
+
+.playlist li{
+    padding: 8px;
+    border-bottom: 1px solid #eee;
+    font-size: 0.95rem;
+}
+
+img{
+    max-width: 100%;
+    border-radius: 15px;
+}
+
+
+#toggle-dark{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 10px 14px;
+    border: none;
+    border-radius: 20px;
+    background-color: #1e90ff;
+    color: white;
+    font-size: 0.9rem;
+    cursor: pointer;
+    z-index: 100;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    transition: background 0.3s;
+}
+
+#toggle-dark:hover{
+    background-color: #0f6dbf;
+}
+
+/* dark mode styles */
+body.dark{
+    background-color: #121212;
+    color: #ddd;
+}
+
+body.dark .player{
+    background-color: #3572ac65;
+}
+
+body.dark .song-title{
+    color: #66ccff;
+}
+
+body.dark .controls button{
+    background: #66ccff;
+    color: #000;
+}
+
