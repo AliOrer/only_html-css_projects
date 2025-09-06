@@ -16,8 +16,3 @@ It is a simple web page dedicated to honoring an individual, with a clean and re
 ## How to Use
 1. Clone the repository or download the project files.  
 2. Open `index.html` in any web browser.  
-
-```bash
-git clone https://github.com/username/tribute-page.git
-cd tribute-page
-open index.html
