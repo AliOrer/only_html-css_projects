@@ -31,6 +31,6 @@ Perfect for practicing basic form elements and styling.
 
 3. Run the app
 
-Just open index.html in your browser
+   Just open index.html in your browser
 
 ---
