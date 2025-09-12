@@ -14,3 +14,9 @@ Perfect for practicing basic form elements and styling.
 - ✅ **Easy to Customize** – Modify fields as needed  
 
 ---
+
+## 🛠️ Tech Stack
+- **HTML5** – Structure  
+- **CSS3** – Styling  
+
+---
