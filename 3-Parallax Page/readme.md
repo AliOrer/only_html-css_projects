@@ -11,3 +11,10 @@ The project demonstrates how to create a smooth parallax effect using only front
 - Pure HTML and CSS (no frameworks)
 
 ---
+
+## How to Use
+1. Clone or download this repository.
+2. Open `index.html` in your browser.
+3. Scroll to see the parallax effect in action.
+
+---
