@@ -18,3 +18,9 @@ The project demonstrates how to create a smooth parallax effect using only front
 3. Scroll to see the parallax effect in action.
 
 ---
+
+## Technologies Used
+- **HTML5**
+- **CSS3** (background-attachment, positioning)
+
+---
