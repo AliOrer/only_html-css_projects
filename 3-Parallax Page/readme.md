@@ -24,3 +24,12 @@ The project demonstrates how to create a smooth parallax effect using only front
 - **CSS3** (background-attachment, positioning)
 
 ---
+
+## Future Improvements
+- Add JavaScript animations for more interactive sections
+- Make it fully responsive for all screen sizes
+- Add more sections with different parallax speeds
+
+---
+
+Made with ❤️ for learning and practice.
