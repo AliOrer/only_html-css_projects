@@ -5,6 +5,7 @@ It showcases a basic restaurant layout including menu sections, about, and conta
 
 ---
 
+## Features
 - Clean and simple design
 - Responsive layout for different screen sizes
 - Pure HTML and CSS (no frameworks or JavaScript)
