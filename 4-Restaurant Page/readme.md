@@ -22,4 +22,11 @@ It showcases a basic restaurant layout including menu sections, about, and conta
 - **HTML5**
 - **CSS3**
 
+--- 
+
+## Future Improvements
+- Add a reservation form
+- Enhance design with animations
+- Make it fully responsive for mobile and tablet devices
+
 ---
