@@ -16,4 +16,10 @@ It showcases a basic restaurant layout including menu sections, about, and conta
 1. Clone or download this repository.
 2. Open `index.html` in your browser to view the page.
 
+--- 
+
+## Technologies Used
+- **HTML5**
+- **CSS3**
+
 ---
