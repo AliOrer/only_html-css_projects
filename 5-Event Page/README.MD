@@ -12,4 +12,4 @@ It is designed to showcase event details such as date, location, schedule, and a
 
 ---
 
-## How To Use
+## How to Use
