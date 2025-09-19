@@ -5,3 +5,9 @@ It is designed to showcase event details such as date, location, schedule, and a
 
 ---
 
+## Features
+- Clean and minimal design
+- Sections for event details, speakers/guests, and contact info
+- Pure HTML and CSS (no frameworks or JavaScript)
+
+
