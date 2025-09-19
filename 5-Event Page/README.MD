@@ -11,3 +11,5 @@ It is designed to showcase event details such as date, location, schedule, and a
 - Pure HTML and CSS (no frameworks or JavaScript)
 
 ---
+
+## How To Use
