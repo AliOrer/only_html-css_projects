@@ -23,3 +23,8 @@ It is designed to showcase event details such as date, location, schedule, and a
 - **CSS3**
 
 ---
+
+## Future Improvements
+- Add a registration form
+- Add countdown timer (with JavaScript)
+- Make it fully responsive for all devices
