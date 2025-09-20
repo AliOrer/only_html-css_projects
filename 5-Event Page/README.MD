@@ -28,3 +28,4 @@ It is designed to showcase event details such as date, location, schedule, and a
 - Add a registration form
 - Add countdown timer (with JavaScript)
 - Make it fully responsive for all devices
+---
