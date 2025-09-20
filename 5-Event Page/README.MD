@@ -1,5 +1,4 @@
 # Event Web Page
-
 This is a simple **event landing page** built with **HTML** and **CSS**.  
 It is designed to showcase event details such as date, location, schedule, and a call-to-action.
 
@@ -13,3 +12,8 @@ It is designed to showcase event details such as date, location, schedule, and a
 ---
 
 ## How to Use
+1. Clone or download this repository.
+2. Open `index.html` in your browser.
+3. Scroll through the page to see the event layout.
+
+---
