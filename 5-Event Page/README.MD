@@ -17,3 +17,9 @@ It is designed to showcase event details such as date, location, schedule, and a
 3. Scroll through the page to see the event layout.
 
 ---
+
+## Technologies Used
+- **HTML5**
+- **CSS3**
+
+---
