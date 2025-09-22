@@ -1,0 +1,4 @@
+# Personal Webpage
+
+This is a simple **personal webpage** built with **HTML** and **CSS**.  
+It serves as a minimal portfolio and personal introduction page
