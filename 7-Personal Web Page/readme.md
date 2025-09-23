@@ -17,3 +17,9 @@ It serves as a minimal portfolio and personal introduction page
 2. Open `index.html` in your browser to view the page.
 
 ---
+
+## Technologies Used
+- **HTML5**
+- **CSS3**
+---
+
