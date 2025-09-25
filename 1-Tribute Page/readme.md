@@ -1,4 +1,4 @@
-# Tribute Page
+# Tribute Page V.2.0
 
 This project is a **tribute page** built using only **HTML** and **CSS**.  
 It is a simple web page dedicated to honoring an individual, with a clean and responsive design.
